@@ -146,9 +146,6 @@
 @@||iadsdk.apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
 
-# Reddit
-@@||reddit.com^$important
-
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
