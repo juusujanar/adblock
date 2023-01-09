@@ -79,7 +79,7 @@ class MyAdapter(HTTPAdapter):
                                        block=block,
                                        ssl_version=ssl.PROTOCOL_TLSv1_2)
 
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0'}     
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0', 'Content-Type': 'application/json'}
 
 s = requests.Session()
 s.mount(host, MyAdapter())
