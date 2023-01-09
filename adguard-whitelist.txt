@@ -69,11 +69,6 @@
 # No-IP.com
 @@||no-ip.com^$important
 
-# Twitter
-@@||twimg.com^$important
-@@||twitter.com^$important
-@@||t.co^$important
-
 # Optimizely
 @@||cdn.optimizely.com^$important
 @@||cdn2.optimizely.com^$important
@@ -132,10 +127,6 @@
 
 # Apple
 @@||gdmf.apple.com.akadns.net^$important
-@@||apple.com^$important
-@@||icloud.com^$important
-@@||itunes.com^$important
-@@||mzstatic.com^$important
 @@||apple-dns.net^$important
 @@||cdn-apple.com^$important
 @@||iphone-ld.origin-apple.com.akadns.net^$important
@@ -285,10 +276,6 @@
 @@||0.client-channel.google.com^$important
 @@||1drv.com^$important
 @@||2.android.pool.ntp.org^$important
-@@||akamaihd.net^$important
-@@||akamaitechnologies.com^$important
-@@||akamaized.net^$important
-@@||amazonaws.com^$important
 @@||app-api.ted.com^$important
 @@||api.rlje.net^$important
 @@||appsbackup-pa.clients6.google.com^$important
@@ -381,7 +368,6 @@
 @@||s.marketwatch.com^$important
 @@||s.youtube.com^$important
 @@||s.ytimg.com^$important
-@@||s1.wp.com^$important
 @@||s2.youtube.com^$important
 @@||s3.amazonaws.com^$important
 @@||secure.avangate.com^$important
@@ -404,7 +390,6 @@
 @@||videos.vidible.tv^$important
 @@||widget-cdn.rpxnow.com^$important
 @@||win10.ipv6.microsoft.com^$important
-@@||wp.com^$important
 @@||ws.audioscrobbler.com^$important
 @@||www.dataplicity.com^$important
 @@||www.googleapis.com^$important
